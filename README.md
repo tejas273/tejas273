@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Tejas
 
 - 🔭 Core Member ACM Student Chapter at VIT - Vellore 
-- 🌱 Aspiring FullStack Developer 
+- 🌱 AI & ML Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
